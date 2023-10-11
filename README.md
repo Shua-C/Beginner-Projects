@@ -1,4 +1,4 @@
-# Assignment-6
+# Beginner Projects
 This repository hold 2 simple projects that were designed to incorporate concepts that were covered in my classes.
 
   I am very early on in my studies of computer science which is shown in the projects, I have taken a enty level course that covered fundamental coding concepts
